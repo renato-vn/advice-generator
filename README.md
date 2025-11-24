@@ -17,7 +17,7 @@ This app, built with React.js, TypeScript, and TailwindCSS, displays a random ad
 
 2. Install dependencies
 
-``yarn`
+`yarn`
 
 3. Run the app
 
